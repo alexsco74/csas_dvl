@@ -1,0 +1,6 @@
+name = Csas devel
+description = Csas devel
+package = Csas
+version = VERSION
+core = 7.x
+configure = admin/config/content/csas_dvl
